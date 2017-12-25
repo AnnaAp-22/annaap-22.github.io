@@ -1,2 +1,2 @@
 # annaap-22.github.io
-техномарт -убечный htmlacademy
+техномарт, мишка -учебный htmlacademy
